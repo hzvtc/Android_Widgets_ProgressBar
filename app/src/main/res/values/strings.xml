@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_Widgets_ProgressBar</string>
+    <string name="start_btn">开始</string>
+    <string name="stop_btn">停止</string>
+    <string name="progress_detail_info">progress_detail_info</string>
+    <string name="str_progress_loading">正在加载中...</string>
+    <string name="str_progress_done">加载完成</string>
+</resources>
